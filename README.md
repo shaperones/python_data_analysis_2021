@@ -13,6 +13,8 @@
 3. Основное рабочее пространство курса - Jupyter Notebook. Установить (conda/pip): https://jupyter.org/install
 
 4. Основное средство коммуникации курса - [чат в Telegram](https://t.me/joinchat/VdKF7Ekk8hqhmx1N)
+5. Записи лекций - [тут](https://drive.google.com/drive/folders/11Jzbt-oxCIBG8PIj9lQFw6dnIiNxBV4g)
+6. Таблица успеваемости - [тут](https://docs.google.com/spreadsheets/d/14c__PsJ8XCHDmbqoiFlEpyfzuV_YhjfWIQIRlGjAD8Y/edit?usp=sharing)
 
 ### Для чего мне этот курс?
 
